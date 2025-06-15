@@ -1,5 +1,3 @@
-# LivePulser
-
 ![LivePulser](https://raw.githubusercontent.com/livepulser/.github/refs/heads/main/logo-full-white.svg)
 
 ## About Us
