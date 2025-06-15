@@ -1,6 +1,6 @@
 # LivePulser
 
-![LivePulser](https://github.com/livepulser-org/livepulser-frontend-web/blob/main/app/opengraph-image.png)
+![LivePulser](https://raw.githubusercontent.com/livepulser/.github/refs/heads/main/logo-full-white.svg)
 
 ## About Us
 
