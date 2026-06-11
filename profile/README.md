@@ -8,7 +8,7 @@
 
 Real-time uptime &amp; reliability monitoring for **websites, servers, APIs, SSL certificates, domains, ports, and cron jobs** — with instant alerts the moment something goes down or behaves abnormally.
 
-[🌐 livepulser.com](https://livepulser.com) · [𝕏 @livepulser](https://twitter.com/livepulser)
+[🌐 Website](https://livepulser.com) · [𝕏 Twitter](https://x.com/LivePulser) · [▶️ YouTube](https://youtube.com/@livepulser) · [📸 Instagram](https://instagram.com/livepulser) · [👍 Facebook](https://facebook.com/livepulser)
 
 </div>
 
@@ -80,8 +80,11 @@ Head to [livepulser.com](https://livepulser.com) to sign up and start monitoring
 
 ## Connect with us
 
-- 🌐 Website: **[livepulser.com](https://livepulser.com)**
-- 𝕏 / Twitter: **[@livepulser](https://twitter.com/livepulser)**
+- 🌐 **Website** — [livepulser.com](https://livepulser.com)
+- 𝕏 **Twitter / X** — [@LivePulser](https://x.com/LivePulser)
+- ▶️ **YouTube** — [@livepulser](https://youtube.com/@livepulser)
+- 📸 **Instagram** — [@livepulser](https://instagram.com/livepulser)
+- 👍 **Facebook** — [/livepulser](https://facebook.com/livepulser)
 
 <div align="center">
 
